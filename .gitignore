@@ -34,3 +34,17 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+.idea/
+.classpath
+.project
+.settings/
+target/
+classes/
+*.iml
+*.ipr
+*.iws
+.metadata/
+build/
+.DS_Store
+logs/
+out/
